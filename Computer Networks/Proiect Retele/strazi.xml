@@ -1,0 +1,34 @@
+<Strazi>
+    <Alee>
+        <id>0</id>
+        <nume>Aleea Sucidava</nume>
+    </Alee>
+     <Alee>
+        <id>1</id>
+        <nume>Strada Sucidava</nume>
+    </Alee>
+    <Alee>
+        <id>2</id>
+        <nume>Strada Amurgului</nume>
+    </Alee>
+    <Alee>
+        <id>3</id>
+        <nume>Strada Sarmisegetuza</nume>
+    </Alee>
+    <Alee>
+        <id>4</id>
+        <nume>Strada Cazaban</nume>
+    </Alee>
+    <Alee>
+        <id>5</id>
+        <nume>Strada Buridava<nume>
+    </Alee>
+    <Alee>
+        <id>6</id>
+        <nume>Strada Tabacului</nume>
+    </Alee>
+    <Alee>
+        <id>7</id>
+        <nume>Bulevardul Dacia</nume>
+    </Alee>
+</Strazi>
